@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_main_screen.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_admin_dashboard.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\songs_row.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\songs_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_songs.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_upload_album.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_upload_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\card_view_item.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\card_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.nimeshmlakshan.onlinemusicappclient.app-mergeDebugResources-38:/layout/activity_splash.xml",
+        "source": "com.nimeshmlakshan.onlinemusicappclient.app-main-41:/layout/activity_splash.xml"
+    }
+]

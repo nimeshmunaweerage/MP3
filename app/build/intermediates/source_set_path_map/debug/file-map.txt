@@ -1,0 +1,42 @@
+com.nimeshmlakshan.onlinemusicappclient.app-drawerlayout-1.1.1-0 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\0574a1a510e1af059f5aa2d2633cd00d\transformed\drawerlayout-1.1.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-activity-1.6.0-1 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\0aafc69ea76b0f0d7c86e9d7f6891b6e\transformed\jetified-activity-1.6.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-core-ktx-1.9.0-2 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\107e356be342b5bea807946ff6491d52\transformed\jetified-core-ktx-1.9.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-JcPlayer-2.7.2-3 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\20c24dbe45376b4626823226f9a6e336\transformed\jetified-JcPlayer-2.7.2\res
+com.nimeshmlakshan.onlinemusicappclient.app-constraintlayout-2.1.4-4 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\2512711f1ec2faed721d4c9ed8b4b79b\transformed\constraintlayout-2.1.4\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-annotation-experimental-1.3.0-5 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\2bed88957565f520d913ec01464a0085\transformed\jetified-annotation-experimental-1.3.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-play-services-auth-20.4.1-6 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\2e63072e59e7093d1dd64a5530a8b8ff\transformed\jetified-play-services-auth-20.4.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-lifecycle-livedata-core-2.5.1-7 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\341c9bebb4738833f4055da5bbec09b8\transformed\lifecycle-livedata-core-2.5.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-8 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\3f5d904b661efd69d721a7fcc63c4616\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-lifecycle-viewmodel-2.5.1-9 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\41a53581ac65d9e8cc81086f2adf219d\transformed\lifecycle-viewmodel-2.5.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-media-1.0.0-10 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\476bbb0ef228eece8a7f2001e686fb47\transformed\media-1.0.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-fragment-1.3.6-11 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\548f7aec8b6be2e5f5dd979d68a6f623\transformed\fragment-1.3.6\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-savedstate-1.2.0-12 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\5e21c23055abf6f9bc4878b663175a68\transformed\jetified-savedstate-1.2.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-browser-1.4.0-13 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\6b0e943bcec92850cba634da3748f860\transformed\browser-1.4.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-glide-4.12.0-14 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\78e9ea8cde5e50af82555296dfb4ae9d\transformed\jetified-glide-4.12.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-startup-runtime-1.1.1-15 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\7cb5e6578163407f8cf499751bbd2588\transformed\jetified-startup-runtime-1.1.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-appcompat-1.6.1-16 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\7d9cbba0643e716160b87ef4ea4382fb\transformed\appcompat-1.6.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-core-1.9.0-17 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\919317f429836643b41ba2a3bf987c8a\transformed\core-1.9.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-transition-1.2.0-18 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\93052dbdc9cfd270f344f219fd309d1d\transformed\transition-1.2.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-firebase-common-20.2.0-19 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\97f8fa12dbed8baee25c04da5e71e1f9\transformed\jetified-firebase-common-20.2.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-cardview-1.0.0-20 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\9edcf1890a45bfb93e362dfa5bd51d74\transformed\cardview-1.0.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-play-services-basement-18.1.0-21 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\a3ed19c348ebf7c2276e05f3d42241cb\transformed\jetified-play-services-basement-18.1.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-appcompat-resources-1.6.1-22 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\a83cbeef83786e405e38ff989084f560\transformed\jetified-appcompat-resources-1.6.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-lifecycle-runtime-2.5.1-23 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\b047d5b01b16e3dc9bc4efc54e86646d\transformed\lifecycle-runtime-2.5.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-viewpager2-1.0.0-24 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\b24dc46b0527e34ee35286518f7db233\transformed\jetified-viewpager2-1.0.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-material-1.8.0-25 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\cd2045572dcade4d69eb67ebca8d1f9a\transformed\material-1.8.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-library-2.3-26 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\d002827ed486d9a01c6dbc15aa3200f1\transformed\jetified-library-2.3\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-lifecycle-process-2.4.1-27 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\d561dc3140f89402ceabed27522e0a46\transformed\jetified-lifecycle-process-2.4.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-emoji2-1.2.0-28 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\d56bb0600c2237ee5c74aec1270a6ec4\transformed\jetified-emoji2-1.2.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-recyclerview-1.1.0-29 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\d88989d01b210ada62586b22bd8b3806\transformed\recyclerview-1.1.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-emoji2-views-helper-1.2.0-30 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\db33d6d1737b5cc38893953bbfe42639\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-jetified-play-services-base-18.0.1-31 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\e88e8896dd571b7ef64fcfde60a01900\transformed\jetified-play-services-base-18.0.1\res
+com.nimeshmlakshan.onlinemusicappclient.app-coordinatorlayout-1.1.0-32 C:\Users\Malshani Senarathne\.gradle\caches\transforms-3\eaafe2a768c9d9d19cea20f1bf14f31f\transformed\coordinatorlayout-1.1.0\res
+com.nimeshmlakshan.onlinemusicappclient.app-google-services-33 E:\KDU\MPlayer4\app\build\generated\res\google-services\debug
+com.nimeshmlakshan.onlinemusicappclient.app-pngs-34 E:\KDU\MPlayer4\app\build\generated\res\pngs\debug
+com.nimeshmlakshan.onlinemusicappclient.app-resValues-35 E:\KDU\MPlayer4\app\build\generated\res\resValues\debug
+com.nimeshmlakshan.onlinemusicappclient.app-rs-36 E:\KDU\MPlayer4\app\build\generated\res\rs\debug
+com.nimeshmlakshan.onlinemusicappclient.app-packageDebugResources-37 E:\KDU\MPlayer4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nimeshmlakshan.onlinemusicappclient.app-packageDebugResources-38 E:\KDU\MPlayer4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39 E:\KDU\MPlayer4\app\build\intermediates\merged_res\debug
+com.nimeshmlakshan.onlinemusicappclient.app-debug-40 E:\KDU\MPlayer4\app\src\debug\res
+com.nimeshmlakshan.onlinemusicappclient.app-main-41 E:\KDU\MPlayer4\app\src\main\res

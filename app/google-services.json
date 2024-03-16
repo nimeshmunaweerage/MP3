@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "601310790097",
+    "firebase_url": "https://music-player-75faf-default-rtdb.firebaseio.com",
+    "project_id": "music-player-75faf",
+    "storage_bucket": "music-player-75faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601310790097:android:c37bf826d8af8a37aa60f0",
+        "android_client_info": {
+          "package_name": "com.nimeshmlakshan.musicappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKCYKLx-Cd7YFv3Eijxv1Vx7nmkEF248"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601310790097:android:27bff968aecf1215aa60f0",
+        "android_client_info": {
+          "package_name": "com.nimeshmlakshan.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKCYKLx-Cd7YFv3Eijxv1Vx7nmkEF248"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601310790097:android:fe61739503fa31b6aa60f0",
+        "android_client_info": {
+          "package_name": "com.nimeshmlakshan.musicplayerclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKCYKLx-Cd7YFv3Eijxv1Vx7nmkEF248"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601310790097:android:2ee29bff83c6440daa60f0",
+        "android_client_info": {
+          "package_name": "com.nimeshmlakshan.onlinemusicappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKCYKLx-Cd7YFv3Eijxv1Vx7nmkEF248"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601310790097-1vo52gm5fr8t7nra5iuqc33m7mirqsna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

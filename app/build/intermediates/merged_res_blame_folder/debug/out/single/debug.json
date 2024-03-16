@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_main_screen.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_shape_edittext01.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\shape_edittext01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_songs_row.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\songs_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-hdpi_ic_logout_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-hdpi\\ic_logout_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v21_ic_person_gray.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v21\\ic_person_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-hdpi_ic_lock_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-hdpi\\ic_lock_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xhdpi_ic_back_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xhdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_songs.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-hdpi_ic_email_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-hdpi\\ic_email_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_card_view_item.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\card_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxxhdpi_ic_lock_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxxhdpi\\ic_lock_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-ldpi_ic_back_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-ldpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxxhdpi_ic_logout_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxxhdpi\\ic_logout_white.png"
+    },
+    {
+        "merged": "com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:/drawable_music_logo.webp.flat",
+        "source": "com.nimeshmlakshan.onlinemusicappclient.app-main-41:/drawable/music_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-mdpi_ic_back_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-mdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xhdpi_ic_logout_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xhdpi\\ic_logout_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-ldpi_ic_person_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-ldpi\\ic_person_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_shape_button02.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\shape_button02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxxhdpi_ic_person_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxxhdpi\\ic_person_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxhdpi_ic_lock_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxhdpi\\ic_lock_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxxhdpi_ic_back_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxxhdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v21_ic_back_white.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v21\\ic_back_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxhdpi_ic_back_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxhdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_music_logo.webp.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\music_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-ldpi_ic_logout_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-ldpi\\ic_logout_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v21_ic_logout_white.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v21\\ic_logout_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-ldpi_ic_email_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-ldpi\\ic_email_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_music_placeholder.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\music_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_music_logo.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\music_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-mdpi_ic_lock_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-mdpi\\ic_lock_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-mdpi_ic_logout_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-mdpi\\ic_logout_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxhdpi_ic_logout_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxhdpi\\ic_logout_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_shape_toolbar02.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\shape_toolbar02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-mdpi_ic_email_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-mdpi\\ic_email_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-ldpi_ic_lock_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-ldpi\\ic_lock_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-hdpi_ic_back_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-hdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_shape_button01.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\shape_button01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-hdpi_ic_person_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-hdpi\\ic_person_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxxhdpi_ic_email_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxxhdpi\\ic_email_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v21_ic_lock_gray.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v21\\ic_lock_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xhdpi_ic_email_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xhdpi\\ic_email_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_upload_album.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_upload_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_ic_play_circle_outline_white.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\ic_play_circle_outline_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable_shape_toolbar01.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\drawable\\shape_toolbar01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxhdpi_ic_person_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxhdpi\\ic_person_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xhdpi_ic_person_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xhdpi\\ic_person_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-main-41:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-anydpi-v21_ic_email_gray.xml.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-anydpi-v21\\ic_email_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xhdpi_ic_lock_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xhdpi\\ic_lock_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-mdpi_ic_person_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-mdpi\\ic_person_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-merged_res-39:\\drawable-xxhdpi_ic_email_gray.png.flat",
+        "source": "C:\\Users\\Malshani Senarathne\\.gradle\\daemon\\7.5\\com.nimeshmlakshan.onlinemusicappclient.app-pngs-34:\\drawable-xxhdpi\\ic_email_gray.png"
+    }
+]
